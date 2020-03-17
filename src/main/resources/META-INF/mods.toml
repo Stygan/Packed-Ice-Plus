@@ -12,9 +12,7 @@ version="1.0"
 
 displayName="Packed Ice +"
 
-updateJSONURL="http://myurl.me/"
-
-displayURL=" "
+updateJSONURL="https://github.com/Stygan/Packed-Ice-Plus"
 
 logoFile="icon.png"
 
