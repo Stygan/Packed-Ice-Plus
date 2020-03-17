@@ -27,7 +27,7 @@ Hello there, this is a simple mod. It adds variants to packed ice blocks.
 Thank you for trying it out!
 '''
 
-[[dependencies.tutorialmod]]
+[[dependencies.packediceplus]]
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -39,7 +39,7 @@ Thank you for trying it out!
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 
-[[dependencies.tutorialmod]]
+[[dependencies.packediceplus]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"
