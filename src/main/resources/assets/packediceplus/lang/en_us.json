@@ -1,5 +1,9 @@
 {
 	"block.packediceplus.ice_stairs": "Packed Ice Stairs",
 	"block.packediceplus.ice_slab": "Packed Ice Slab",
-	"block.packediceplus.ice_wall": "Packed Ice Wall"
+	"block.packediceplus.ice_wall": "Packed Ice Wall",
+	
+	"block.packediceplus.blue_ice_stairs": "Blue Ice Stairs",
+	"block.packediceplus.blue_ice_slab": "Blue Ice Slab",
+	"block.packediceplus.blue_ice_wall": "Blue Ice Wall"
 }

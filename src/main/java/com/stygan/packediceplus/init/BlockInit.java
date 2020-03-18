@@ -22,6 +22,9 @@ public class BlockInit {
 	public static final Block ice_stairs = null;
 	public static final Block ice_slab = null;
 	public static final Block ice_wall = null;
+	public static final Block blue_ice_stairs = null;
+	public static final Block blue_ice_slab = null;
+	public static final Block blue_ice_wall = null;
 
 	@SubscribeEvent
 	public static void registerBlocks(final RegistryEvent.Register<Block> event) {
@@ -32,6 +35,13 @@ public class BlockInit {
 				.register(new SlabBlock(Block.Properties.from(Blocks.PACKED_ICE)).setRegistryName("ice_slab"));
 		event.getRegistry()
 				.register(new WallBlock(Block.Properties.from(Blocks.PACKED_ICE)).setRegistryName("ice_wall"));
+		event.getRegistry()
+				.register(new StairsBlock(Blocks.BLUE_ICE::getDefaultState, Block.Properties.from(Blocks.BLUE_ICE))
+						.setRegistryName("blue_ice_stairs"));
+		event.getRegistry()
+				.register(new SlabBlock(Block.Properties.from(Blocks.BLUE_ICE)).setRegistryName("blue_ice_slab"));
+		event.getRegistry()
+				.register(new WallBlock(Block.Properties.from(Blocks.BLUE_ICE)).setRegistryName("blue_ice_wall"));
 	}
 
 	@SubscribeEvent
@@ -42,5 +52,14 @@ public class BlockInit {
 				.setRegistryName("ice_slab"));
 		event.getRegistry().register(new BlockItem(ice_wall, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS))
 				.setRegistryName("ice_wall"));
+		event.getRegistry()
+				.register(new BlockItem(blue_ice_stairs, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS))
+						.setRegistryName("blue_ice_stairs"));
+		event.getRegistry()
+				.register(new BlockItem(blue_ice_slab, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS))
+						.setRegistryName("blue_ice_slab"));
+		event.getRegistry()
+				.register(new BlockItem(blue_ice_wall, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS))
+						.setRegistryName("blue_ice_wall"));
 	}
 }
