@@ -1,9 +1,13 @@
 {
-	"block.packediceplus.ice_stairs": "Packed Ice Stairs",
-	"block.packediceplus.ice_slab": "Packed Ice Slab",
-	"block.packediceplus.ice_wall": "Packed Ice Wall",
+	"block.packediceplus.packed_ice_stairs": "Packed Ice Stairs",
+	"block.packediceplus.packed_ice_slab": "Packed Ice Slab",
+	"block.packediceplus.packed_ice_wall": "Packed Ice Wall",
+	"block.packediceplus.packed_ice_vslab": "Packed Ice Vertical Slab",
+	"block.packediceplus.packed_ice_halfslab": "Packed Ice Half Slab",
 	
 	"block.packediceplus.blue_ice_stairs": "Blue Ice Stairs",
 	"block.packediceplus.blue_ice_slab": "Blue Ice Slab",
-	"block.packediceplus.blue_ice_wall": "Blue Ice Wall"
+	"block.packediceplus.blue_ice_wall": "Blue Ice Wall",
+	"block.packediceplus.blue_ice_vslab": "Blue Ice Vertical Slab",
+	"block.packediceplus.blue_ice_halfslab": "Blue Ice Half Slab"
 }

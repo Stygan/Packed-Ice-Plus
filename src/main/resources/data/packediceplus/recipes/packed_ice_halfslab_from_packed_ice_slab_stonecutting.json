@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "packediceplus:ice_slab"
+  },
+  "result": "packediceplus:packed_ice_halfslab",
+  "count": 2
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ice",
+  "ingredients": [
+    {
+      "item": "packediceplus:packed_ice_slab"
+    }
+  ],
+  "result": {
+    "item": "packediceplus:packed_ice_halfslab"
+  }
+}

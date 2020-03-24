@@ -1,8 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "ice",
   "pattern": [
-    "###"
+    "#",
+    "#",
+    "#"
   ],
   "key": {
     "#": {
@@ -10,7 +11,7 @@
     }
   },
   "result": {
-    "item": "packediceplus:blue_ice_slab",
+    "item": "packediceplus:blue_ice_vslab",
     "count": 6
   }
 }

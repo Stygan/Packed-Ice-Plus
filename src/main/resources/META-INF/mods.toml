@@ -8,7 +8,7 @@ issueTrackerURL="http://my.issue.tracker/"
 
 modId="packediceplus"
 
-version="1.0.1"
+version="1.0.2"
 
 displayName="Packed Ice +"
 
@@ -16,7 +16,7 @@ updateJSONURL="https://github.com/Stygan/Packed-Ice-Plus"
 
 logoFile="icon.png"
 
-credits="FML"
+credits="FML and the bois Shrek & Blair"
 
 authors="Stygan"
 

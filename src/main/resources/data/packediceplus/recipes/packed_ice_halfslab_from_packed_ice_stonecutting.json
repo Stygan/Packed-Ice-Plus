@@ -3,6 +3,6 @@
   "ingredient": {
     "item": "minecraft:packed_ice"
   },
-  "result": "packediceplus:ice_stairs",
-  "count": 1
+  "result": "packediceplus:packed_ice_halfslab",
+  "count": 4
 }

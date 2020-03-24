@@ -1,9 +1,13 @@
 {
-	"block.packediceplus.ice_stairs": "Escaleras de hielo compacto",
-	"block.packediceplus.ice_slab": "Losa de hielo compacto",
-	"block.packediceplus.ice_wall": "Muro de hielo compacto"
+	"block.packediceplus.packed_ice_stairs": "Escaleras de hielo compacto",
+	"block.packediceplus.packed_ice_slab": "Losa de hielo compacto",
+	"block.packediceplus.packed_ice_wall": "Muro de hielo compacto"
+	"block.packediceplus.packed_ice_vslab": "Losa vertical de hielo compacto",
+	"block.packediceplus.packed_ice_halfslab": "Media losa de hielo compacto",
 	
 	"block.packediceplus.blue_ice_stairs": "Escaleras de hielo azul",
 	"block.packediceplus.blue_ice_slab": "Losa de hielo azul",
-	"block.packediceplus.blue_ice_wall": "Muro de hielo azul"
+	"block.packediceplus.blue_ice_wall": "Muro de hielo azul",
+	"block.packediceplus.packed_ice_vslab": "Losa vertical de hielo azul",
+	"block.packediceplus.packed_ice_halfslab": "Media losa de hielo azul"
 }

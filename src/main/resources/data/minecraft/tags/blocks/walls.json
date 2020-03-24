@@ -1,7 +1,7 @@
 {
 	"replace": "false",
 	"values": [
-		"packediceplus:ice_wall",
+		"packediceplus:packed_ice_wall",
 		"packediceplus:blue_ice_wall"
 		]
 }

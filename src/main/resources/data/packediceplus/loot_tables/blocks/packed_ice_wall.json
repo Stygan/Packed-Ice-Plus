@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "packediceplus:ice_stairs"
+          "name": "packediceplus:packed_ice_wall"
         }
       ],
       "conditions": [

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:blue__ice"
+    "item": "minecraft:blue_ice"
   },
   "result": "packediceplus:blue_ice_slab",
   "count": 2
